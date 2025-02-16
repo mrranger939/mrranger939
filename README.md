@@ -1,52 +1,55 @@
-# Hello, I'm Mohammed Shujath Nawaz! 👋
+# Hi, I'm Mohammed Shujath Nawaz! 👋
 
-🌐 **Connect with me:**  
-📧 **Email:** [mohammedshujathnawaz@gmail.com](mailto:mohammedshujathnawaz@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/mohammed-shujath-nawaz](https://www.linkedin.com/in/mohammed-shujath-nawaz/)  
-🐦 **Twitter:** [x.com/Md_ShujathNawaz](https://x.com/Md_ShujathNawaz)  
-💻 **GitHub:** [github.com/mohammed-shujath-nawaz](https://github.com/mohammed-shujath-nawaz)  
+## 🚀 About Me
+I am a passionate Computer Science and Engineering student at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad. I love building scalable web applications, working with cloud technologies, and exploring machine learning. My journey in tech is driven by curiosity, problem-solving, and continuous learning.
 
----
+With expertise in full-stack development, backend engineering, and machine learning, I enjoy creating impactful solutions that blend efficiency with innovation. I thrive in collaborative environments and always seek opportunities to grow and contribute to exciting projects.
 
-## 👨‍💻 About Me
-
-I’m a **Computer Science and Engineering student** at **Chaitanya Bharathi Institute of Technology, Hyderabad**, with a passion for turning ideas into reality through code. I’m fascinated by the endless possibilities of technology and love exploring how it can be used to solve complex problems and improve lives.  
-
-My journey in tech has been driven by curiosity and a desire to create meaningful impact. Whether it’s building scalable systems, diving into machine learning, or designing intuitive user experiences, I’m always eager to learn, experiment, and grow.  
-
-When I’m not immersed in coding, I enjoy staying updated with the latest tech trends, contributing to open-source projects, and collaborating with others to bring innovative ideas to life.  
+📫 **Contact Me:**  
+📞 9391090496 | ✉️ mohammedshujathnawaz@gmail.com  
+🌍 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shujath-nawaz/)  
+🐦 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Md_ShujathNawaz)  
+💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-shujath-nawaz)
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, JavaScript, Java, C++  
-- **Frontend:** HTML/CSS, React, Bootstrap, Tailwind, NextUI  
-- **Backend:** Node.js, Express, Flask  
-- **Databases:** MongoDB, SQL  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy  
-- **Tools & Platforms:** Kafka, Docker, Git  
-- **Others:** Data Structures and Algorithms  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+**Frontend:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="NextUI"/>
+</p>
+
+**Backend & Databases:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+</p>
+
+**Machine Learning & Tools:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
-## 🌟 My Philosophy
-
-I believe that technology is a powerful tool for change, and I’m passionate about using it to create solutions that matter. I thrive in environments where I can combine creativity and logic to build systems that are not only functional but also impactful.  
-
-Continuous learning is at the core of my journey. I’m always exploring new technologies, frameworks, and methodologies to expand my skill set and stay ahead in the ever-evolving tech landscape.  
-
----
-
-## 📫 Let’s Collaborate!
-
-I’m always excited to connect with like-minded individuals, collaborate on interesting projects, or discuss new ideas. Whether you’re looking for a collaborator, have an opportunity, or just want to chat about tech, feel free to reach out!  
-
-- **Email:** [mohammedshujathnawaz@gmail.com](mailto:mohammedshujathnawaz@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mohammed-shujath-nawaz](https://www.linkedin.com/in/mohammed-shujath-nawaz/)  
-- **Twitter:** [x.com/Md_ShujathNawaz](https://x.com/Md_ShujathNawaz)  
-- **GitHub:** [github.com/mohammed-shujath-nawaz](https://github.com/mohammed-shujath-nawaz)  
-
----
-
-⭐️ **Thanks for visiting my profile!** ⭐️  
+📌 Always open to collaborating on new projects and learning new technologies!
