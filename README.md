@@ -70,3 +70,9 @@ A passionate Computer Science student at Chaitanya Bharathi Institute of Technol
       </td>
   </tr>
 </table>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrranger939&theme=github_dark" alt="GitHub Profile Summary"/>
+</p>
